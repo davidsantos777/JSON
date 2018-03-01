@@ -1,18 +1,18 @@
 **Listar**
 
-Lista todas las mascotas que tienen nivel 25
+Lista todas las mascotas que tienen nivel 25.
 
 **Contar**
 
-Contar el número de mascotas asociadas a cada tipo
+Contar el número de mascotas asociadas a cada tipo.
 
 **Buscar o filtrar**
 
-Escribir por teclado una calidad y listar todas las mascotas asociadas a dicha calidad
+Escribir por teclado una calidad y listar todas las mascotas asociadas a dicha calidad.
 
 **Buscar información relacionada** 
 
-Escribir una estadística y mostrar la mascota que mayor valor tiene en dicha estadística
+Escribir una estadística y mostrar la mascota que mayor valor tiene en dicha estadística.
 
 **Ejercicio libre**
 
