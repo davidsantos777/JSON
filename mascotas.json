@@ -1,0 +1,316 @@
+[
+  {
+    "NombreCriatura": "Mini Thor",
+    "Tipo": "Máquina",
+    "IdCriatura": 42078,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 1,
+        "Salud": 168,
+        "Poder": 12,
+        "Velocidad": 8
+    }
+  },
+  {
+    "NombreCriatura": "Alafuego",
+    "Tipo": "Volador",
+    "IdCriatura": 46048,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 25,
+        "Salud": 1465,
+        "Poder": 289,
+        "Velocidad": 273
+    }
+  },
+  {
+    "NombreCriatura": "Vástago de la tormenta",
+    "Tipo": "Dragonante",
+    "IdCriatura": 40013,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 1,
+        "Salud": 152,
+        "Poder": 12,
+        "Velocidad": 11
+    }
+  },
+  {
+    "NombreCriatura": "Calaverete",
+    "Tipo": "No-muerto",
+    "IdCriatura": 45359,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 25,
+        "Salud": 1587,
+        "Poder": 297,
+        "Velocidad": 244
+    }    
+  },
+  {
+    "NombreCriatura": "Halcón de añublo",
+    "Tipo": "No-muerto",
+    "IdCriatura": 42648,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 25,
+        "Salud": 1725,
+        "Poder": 276,
+        "Velocidad": 244
+    }
+  },
+  {
+    "NombreCriatura": "Polilla sedosa",
+    "Tipo": "Volador",
+    "IdCriatura": 35281,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 23,
+        "Salud": 1295,
+        "Poder": 239,
+        "Velocidad": 284
+    }
+  },
+  {
+    "NombreCriatura": "Aparejo",
+    "Tipo": "Máquina",
+    "IdCriatura": 46324,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 15,
+        "Salud": 968,
+        "Poder": 154,
+        "Velocidad": 174
+    }
+  },
+  {
+    "NombreCriatura": "Cría de protodraco",
+    "Tipo": "Dragonante",
+    "IdCriatura": 24925,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 11,
+        "Salud": 772,
+        "Poder": 127,
+        "Velocidad": 107
+    }
+  },
+  {
+    "NombreCriatura": "Abisalius",
+    "Tipo": "Magia",
+    "IdCriatura": 37462,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 1,
+        "Salud": 152,
+        "Poder": 13,
+        "Velocidad": 10
+    }
+  },
+  {
+    "NombreCriatura": "Ojo Arcano",
+    "Tipo": "Magia",
+    "IdCriatura": 28937,
+    "Calidad": "Verde", 
+    "Estadísticas": {
+        "Nivel": 16,
+        "Salud": 916,
+        "Poder": 171,
+        "Velocidad": 161
+    }
+  },
+  {
+    "NombreCriatura": "Poni de mar",
+    "Tipo": "Agua",
+    "IdCriatura": 31468,
+    "Calidad": "Verde", 
+    "Estadísticas": {
+        "Nivel": 8,
+        "Salud": 508,
+        "Poder": 82,
+        "Velocidad": 82
+    }
+  },
+  {
+    "NombreCriatura": "Polly",
+    "Tipo": "Volador",
+    "IdCriatura": 27514,
+    "Calidad": "Blanco", 
+    "Estadísticas": {
+        "Nivel": 7,
+        "Salud": 370,
+        "Poder": 62,
+        "Velocidad": 85
+    }
+  },
+  {
+    "NombreCriatura": "Muñeco de nieve diminuto",
+    "Tipo": "Elemental",
+    "IdCriatura": 49328,
+    "Calidad": "Verde", 
+    "Estadísticas": {
+        "Nivel": 1,
+        "Salud": 151,
+        "Poder": 10,
+        "Velocidad": 10
+    }
+  },
+  {
+    "NombreCriatura": "Rana pequeña",
+    "Tipo": "Agua",
+    "IdCriatura": 33276,
+    "Calidad": "Blanco", 
+    "Estadísticas": {
+        "Nivel": 7,
+        "Salud": 443,
+        "Poder": 61,
+        "Velocidad": 69
+    }
+  },
+  {
+    "NombreCriatura": "Microavizor Atracasol",
+    "Tipo": "Máquina",
+    "IdCriatura": 49142,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 10,
+        "Salud": 620,
+        "Poder": 130,
+        "Velocidad": 104
+    }
+  },
+  {
+    "NombreCriatura": "Árbol joven rubí",
+    "Tipo": "Elemental",
+    "IdCriatura": 17650,
+    "Calidad": "Gris", 
+    "Estadísticas": {
+        "Nivel": 1,
+        "Salud": 148,
+        "Poder": 9,
+        "Velocidad": 8
+    }
+  },
+  {
+    "NombreCriatura": "Saltamareas",
+    "Tipo": "Agua",
+    "IdCriatura": 38593,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 1,
+        "Salud": 159,
+        "Poder": 11,
+        "Velocidad": 11
+    }
+  },
+  {
+    "NombreCriatura": "Víbora de ceniza",
+    "Tipo": "Bestia",
+    "IdCriatura": 25184,
+    "Calidad": "Verde", 
+    "Estadísticas": {
+        "Nivel": 15,
+        "Salud": 811,
+        "Poder": 160,
+        "Velocidad": 160
+    }
+  },
+  {
+    "NombreCriatura": "Sapo Enastado",
+    "Tipo": "Agua",
+    "IdCriatura": 16273,
+    "Calidad": "Blanco", 
+    "Estadísticas": {
+        "Nivel": 7,
+        "Salud": 462,
+        "Poder": 61,
+        "Velocidad": 65
+    }
+  },
+  {
+    "NombreCriatura": "Alfeñique Zandalari",
+    "Tipo": "Bestia",
+    "IdCriatura": 41359,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 25,
+        "Salud": 1235,
+        "Poder": 341,
+        "Velocidad": 276
+    }
+  },  
+  {
+    "NombreCriatura": "Bombita",
+    "Tipo": "Máquina",
+    "IdCriatura": 35269,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 25,
+        "Salud": 1627,
+        "Poder": 244,
+        "Velocidad": 289
+    }
+  },
+  {
+    "NombreCriatura": "Araña crepuscular",
+    "Tipo": "Bestia",
+    "IdCriatura": 39173,
+    "Calidad": "Blanco", 
+    "Estadísticas": {
+        "Nivel": 21,
+        "Salud": 835,
+        "Poder": 221,
+        "Velocidad": 179
+    }
+  },  
+  {
+    "NombreCriatura": "Liebre",
+    "Tipo": "Alimaña",
+    "IdCriatura": 27251,
+    "Calidad": "Verde", 
+    "Estadísticas": {
+        "Nivel": 12,
+        "Salud": 741,
+        "Poder": 101,
+        "Velocidad": 143
+    }
+  },  
+  {
+    "NombreCriatura": "Halcón de fuego llameante",
+    "Tipo": "Volador",
+    "IdCriatura": 12865,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 1,
+        "Salud": 152,
+        "Poder": 13,
+        "Velocidad": 10
+    }
+  },  
+  {
+    "NombreCriatura": "Alma de la forja",
+    "Tipo": "Elemental",
+    "IdCriatura": 35269,
+    "Calidad": "Azul", 
+    "Estadísticas": {
+        "Nivel": 25,
+        "Salud": 1813,
+        "Poder": 265,
+        "Velocidad": 227
+    }
+  },  
+  {
+    "NombreCriatura": "Pequeña ayudante del invierno",
+    "Tipo": "Humanoide",
+    "IdCriatura": 46924,
+    "Calidad": "Verde", 
+    "Estadísticas": {
+        "Nivel": 1,
+        "Salud": 151,
+        "Poder": 10,
+        "Velocidad": 10
+    }
+    
+  }
+
+]
