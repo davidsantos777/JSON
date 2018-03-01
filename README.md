@@ -1,4 +1,4 @@
-(**)Listar(**)
+(**Listar**)
 
 Lista todas las mascotas que tienen nivel 25
 
