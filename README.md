@@ -12,7 +12,7 @@ Escribir por teclado una calidad y listar todas las mascotas asociadas a dicha c
 
 **Buscar información relacionada** 
 
-escribir una estadística y mostrar la mascota que mayor valor tiene en dicha estadística
+Escribir una estadística y mostrar la mascota que mayor valor tiene en dicha estadística
 
 **Ejercicio libre**
 
