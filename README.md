@@ -1,6 +1,6 @@
 **Listar**
 
-Lista todas las mascotas que tienen nivel 25.
+Pedir por teclado un nivel y listar todas las mascotas que tienen dicho nivel.
 
 **Contar**
 
